@@ -34,6 +34,15 @@ That conviction shapes how we design products, define boundaries, record evidenc
 
 These products are being developed as related systems, not as disconnected experiments. Shared capabilities provide a foundation; each product retains the business meaning and boundaries that make it useful.
 
+## Engineering leadership
+
+KeTeKe Labs brings product architecture and platform engineering together so that business meaning and technical foundations develop as one coherent system.
+
+| Engineer | Role | Focus |
+|---|---|---|
+| [**George Wiafe**](https://www.georgewiafe.com) | Product & Solutions Architect | Product direction, solution architecture and the connection between real product journeys and dependable systems. |
+| **Delroy Hughes** | Platform Architect | Platform architecture and the shared technical foundations that support the KeTeKe Labs product family. |
+
 ## How we engineer
 
 ### Zero Assumptions
